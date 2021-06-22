@@ -11,7 +11,7 @@
 
 ## Screenshot
 
-![Screenshot](assets/images/complete-livepage-screenshot.png)
+![Screenshot](assets/images/complete-livepage-screen.png)
 
 ## Contribution
 Assignment completed by Kimberly Collazo
