@@ -1,7 +1,7 @@
 # Horiseon - Code Refactor Challenge
 
 ## Description
-
+In this assignment, I'm required to make sure that the website Horiseon is easily accessible for visitors, continues to function correctly, and that the code is readable for other contributors.
 
 ## Alterations/Changes
 
