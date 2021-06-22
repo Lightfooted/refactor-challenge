@@ -7,7 +7,8 @@
 
 
 ## Web Link
-[Live Page](https://lightfooted.github.io/refactor-challenge/)
+[Horiseon Social Solution Services](https://lightfooted.github.io/refactor-challenge/)
+![picture](put image here)
 
 ## Contribution
 Assignment completed by Kimberly Collazo
