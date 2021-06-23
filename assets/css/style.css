@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* removed . for header class */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* removed . */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* removed . */
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed div for nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* changed div for nav */
 header nav ul {
     list-style-type: none;
 }
-
+/* changed div for nav */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -85,32 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+/* removed excessive benefits left in code - still works! */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -121,19 +96,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* removed excessive benefits left in code - still works! */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
